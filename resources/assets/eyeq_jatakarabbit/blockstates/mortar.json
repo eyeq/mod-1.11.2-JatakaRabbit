@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"level=0": { "model": "eyeq_jatakarabbit:mortar_empty" },
+		"level=1": { "model": "eyeq_jatakarabbit:mortar_level1" },
+		"level=2": { "model": "eyeq_jatakarabbit:mortar_level2" },
+		"level=3": { "model": "eyeq_jatakarabbit:mortar_level3" },
+		"level=4": { "model": "eyeq_jatakarabbit:mortar_level4" }
+	}
+}
